@@ -1,0 +1,56 @@
+
+<resources>
+    <string name="expand_button_content_description">Expand or collapse description</string>
+    <string name="app_name">Wildlife Nusantara</string>
+
+    <string name="animal_name_1">Anoa </string>
+    <string name="animal_description_1">Anoa (Bubalus depressicornis) atau kerbau kerdil adalah kerbau endemik yang hidup di daratan Pulau Sulawesi dan Pulau Buton.
+        Banyak yang menyebut anoa sebagai kerbau kerdil. Anoa merupakan hewan yang tergolong fauna peralihan. Anoa merupakan mamalia tergolong dalam famili bovidae yang tersebar hampir di seluruh pulau Sulawesi.
+        Kawasan Wallacea yang terdiri atas pulau Sulawesi, Maluku, Halmahera, Kepulauan Flores, dan pulaupulau kecil di Nusa Tenggara.
+        Wilayah ini unik karena banyak memiliki flora dan fauna yang endemik dan merupakan kawasan peralihan antara benua Asia dan Australia.
+        Salah satu kawasan yang memiliki flora dan fauna endemik Sulawesi antara lain Kawasan Poso. Anoa (Bubalus sp.) merupakan salah satu satwa endemik yang dilindungi yang menjadi ciri khas Pulau Sulawesi yang turut mendiami Kawasan Hutan Lindung Desa Sangginora Kabupaten Poso.
+        Anoa tergolong satwa liar yang langka dan dilindungi Undang-Undang di Indonesia sejak tahun 1931 dan dipertegas dengan Undang-Undang No. 5 Tahun 1990 dan Peraturan Pemerintah No. 7 Tahun 1999.</string>
+
+    <string name="animal_name_2">Babirusa </string>
+    <string name="animal_description_2">Babi rusa atau babirusa (Babyrousa) adalah marga binatang yang termasuk kerabat babi liar, bertaring panjang yang mencuat dan melengkung di atas moncongnya, hidup berkelompok di sekitar daerah rawa-rawa dan semak-semak, mencari makan pada malam hari, pada siang hari tidur, makanannya terdiri atas umbi, akar, binatang tanah, buah-buahan, dan kelapa yang jatuh.
+        Habitat babi rusa banyak ditemukan di hutan hujan tropis. Hewan ini gemar melahap buah-buahan dan tumbuhan, seperti mangga, jamur, dan dedaunan.
+        Mereka hanya berburu makanan pada malam hari untuk menghindari beberapa binatang buas yang sering menyerang.</string>
+
+    <string name="animal_name_3">Badak Bercula Satu  </string>
+    <string name="animal_description_3">Badak bercula satu  (Rhinoceros sondaicus) atau yang disebut badak jawa kini menjadi spesies yang hampir punah dan hanya tersisa di Ujung Kulon Banten.
+        badak bercula satu  salah satu spesies badak yang sangat langka dan endemik di Indonesia. Badak ini memiliki ciri khas berupa satu cula yang kecil dan sering kali kurang berkembang dibandingkan spesies badak lainnya. Habitat utamanya berada di Taman Nasional Ujung Kulon di ujung barat Pulau Jawa, yang menjadi tempat konservasi utama untuk spesies ini.
+        Badak Jawa menghadapi ancaman kepunahan akibat beberapa faktor seperti perburuan, penyakit, serta kerusakan habitat. Saat ini, populasinya sangat terbatas, dan berbagai upaya konservasi telah dilakukan untuk melindungi spesies ini agar tidak punah.</string>
+
+
+    <string name="animal_name_4">Burung Cenderawasih  </string>
+    <string name="animal_description_4">Burung cenderawasih, atau dikenal sebagai "Bird of Paradise", adalah burung yang terkenal karena keindahan bulunya yang berwarna-warni dan tariannya yang memukau.
+        Burung ini sebagian besar hidup di Papua (Indonesia) dan Papua Nugini, serta di beberapa pulau sekitarnya. Cenderawasih memiliki lebih dari 40 spesies, dengan beberapa di antaranya yang paling
+        terkenal adalah Cenderawasih Kuning Besar (Paradisaea apoda) dan Cenderawasih Raja (Cicinnurus regius).</string>
+
+    <string name="animal_name_5">Elang Jawa  </string>
+    <string name="animal_description_5">Elang Jawa (Nisaetus bartelsi) adalah salah satu spesies elang berukuran sedang yang endemik di Pulau Jawa. Burung ini memiliki keunikan dan keindahan tersendiri, serta memiliki peran penting dalam ekosistem.
+         Selain itu Satwa ini dianggap identik dengan makhluk mithologi hindu-budha yang populer di India, yaitu Garuda. Dan sejak 1992, burung ini ditetapkan sebagai maskot satwa langka Indonesia</string>
+
+    <string name="animal_name_6">Harimau Sumatera </string>
+    <string name="animal_description_6">Harimau Sumatera (Panthera tigris sumatrae) adalah salah satu subspesies harimau yang paling langka dan ikonik di dunia. Sebagai satu-satunya subspesies harimau yang masih bertahan hidup di Indonesia, harimau Sumatera memiliki peran penting dalam menjaga keseimbangan ekosistem hutan hujan tropis Sumatera.
+    Harimau Sumatera menghuni berbagai jenis habitat di pulau Sumatera, mulai dari hutan dataran rendah hingga hutan pegunungan. Namun, habitat mereka semakin terfragmentasi akibat alih fungsi lahan menjadi perkebunan, pemukiman, dan pertambangan.</string>
+
+    <string name="animal_name_7">kakaktua Jambul Kuning </string>
+    <string name="animal_description_7">Kakatua jambul kuning adalah burung yang sangat menarik dan unik. Sayangnya, populasi mereka terancam punah akibat aktivitas manusia.Asal usul kakatua jambul kuning berasal dari Kepulauan Sunda Kecil, Sulawesi, Bali, dan Timor.
+        Mereka menyukai habitat hutan primer dan sekunder yang masih memiliki banyak pohon besar untuk bersarang dan mencari makan.
+        Sayangnya, akibat alih fungsi lahan dan perburuan, populasi mereka semakin menurun.</string>
+
+    <string name="animal_name_8">Komodo  </string>
+    <string name="animal_description_8">Komodo atau lengkapnya biawak komodo (Varanus komodoensis), adalah spesies biawak besar yang terdapat di Pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Hewan ini oleh penduduk asli pulau Komodo juga disebut dengan nama setempat ora.Nama lain dari komodo adalah buaya darat, walaupun komodo bukanlah spesies buaya.Komodo merupakan spesies terbesar dari familia Varanidae, sekaligus kadal terbesar di dunia, dengan rata-rata panjang 2-3 meter dan beratnya bisa mencapai 100 kg. Komodo merupakan pemangsa puncak di habitatnya karena sejauh ini tidak diketahui adanya hewan karnivora besar lain selain biawak ini di sebarang geografisnya.
+    Tubuhnya yang besar dan reputasinya yang mengerikan membuat mereka menjadi salah satu hewan paling terkenal di dunia. Sekarang, habitat komodo yang sesungguhnya telah menyusut akibat aktivitas manusia.</string>
+
+    <string name="animal_name_9">OrangUtan Sumatera </string>
+    <string name="animal_description_9">Orang utan sumatra (Pongo abelii) adalah spesies orang utan terlangka. Orang utan sumatra hidup dan endemik di Sumatra, sebuah pulau yang terletak di Indonesia. Tubuh mereka lebih kecil daripada orang utan kalimantan. Orang utan sumatra memiliki tinggi sekitar 4,6 kaki dan berat 200 pon. Hewan betina berukuran lebih kecil, dengan tinggi 3 kaki dan berat 100 pon.</string>
+
+    <string name="animal_name_10">Pesut Mahakam  </string>
+    <string name="animal_description_10">Pesut Mahakam (Orcaella brevirostris) adalah sejenis lumba-lumba air tawar yang hanya ditemukan di perairan Sungai Mahakam, Kalimantan Timur. Hewan ini memiliki ciri khas yang membedakannya dengan lumba-lumba laut, seperti bentuk kepala yang bulat dan tubuh yang berwarna abu-abu gelap.
+    Seperti namanya, pesut mahakam terutama menghuni Sungai Mahakam dan anak-anak sungainya. Mereka menyukai perairan yang dalam, tenang, dan berlumpur. Sayangnya, habitat mereka semakin terancam akibat aktivitas manusia seperti pertambangan dan pencemaran.</string>
+
+
+</resources>
+
